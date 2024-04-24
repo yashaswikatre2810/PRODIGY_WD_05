@@ -28,16 +28,4 @@
 
 
 <p> <b> Languages Used: HTML, CSS, & JavaScript  </b> </p>
-<h2>Preview: </h2>
-<p>This is preview of the project. You can visit live preview on <a href="https://deblinaroy11.github.io/PRODIGY_WD_05/" target="_blank"> Here. </a></p>
-
-
-
-https://github.com/deblinaroy11/PRODIGY_WD_05/assets/137715845/b3aa68ee-bcea-4edd-a137-c2a29bf92821
-
-<h2>Code: </h2>
-
-
-
-https://github.com/deblinaroy11/PRODIGY_WD_05/assets/137715845/4710e584-f811-4444-9bac-d4cf133deda4
 
